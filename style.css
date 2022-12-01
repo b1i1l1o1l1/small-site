@@ -1,0 +1,7 @@
+.img{
+    width: 100%;
+    height: 240vh;
+    background-image: url("./wdq-min.jpg");
+    background-position: center;
+    background-size: cover;
+}
